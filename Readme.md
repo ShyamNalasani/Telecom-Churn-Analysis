@@ -1,0 +1,2 @@
+# Project Overview
+### The Telecom Customer Churn Prediction project aims to identify and predict customers who are likely to leave a telecom company (churn). By using machine learning techniques, the project provides actionable insights for reducing churn and improving customer retention.
